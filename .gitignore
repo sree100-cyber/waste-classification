@@ -1,0 +1,13 @@
+# Ignore dataset folder (training images)
+dataset/
+
+# Ignore trained AI model
+waste_classifier_model.h5
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files (optional, if using virtualenv)
+.env/
+venv/
